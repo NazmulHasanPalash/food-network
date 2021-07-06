@@ -40,8 +40,8 @@ body{
 }
 
 .link-button{
-    text-decoration: none;
-   background-image: lniear-gradient(blue,cyan);
+ text-decoration: none;
+   background-image: linear-gradient(blue,cyan);
    padding-right: 40px;
    padding-left: 40px;
    padding-top: 15px;
